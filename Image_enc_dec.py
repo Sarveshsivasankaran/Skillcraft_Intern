@@ -34,3 +34,4 @@ def main():
     decrypted_output_path = input("Enter the path to save the decrypted image: ")
     decrypt(output_path, decrypted_output_path, key)
     print("Image decrypted successfully.")
+main()
